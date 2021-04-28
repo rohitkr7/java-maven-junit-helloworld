@@ -1,1 +1,2 @@
 this is newfile1
+yeah and it is a cool file
